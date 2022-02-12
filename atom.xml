@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Xianqi</title>
+  <title>狐説</title>
   
-  <subtitle>Xianqiの博客</subtitle>
-  <link href="http://ze520.cn/atom.xml" rel="self"/>
+  <subtitle>静默前行，狐言狐语</subtitle>
+  <link href="https://circesky.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ze520.cn/"/>
+  <link href="https://circesky.github.io/"/>
   <updated>2022-02-11T08:46:54.178Z</updated>
-  <id>http://ze520.cn/</id>
+  <id>https://circesky.github.io/</id>
   
   <author>
-    <name>Xianqi</name>
+    <name>半狐先生</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ze520.cn/posts/4a17b156.html"/>
-    <id>http://ze520.cn/posts/4a17b156.html</id>
+    <link href="https://circesky.github.io/posts/4a17b156.html"/>
+    <id>https://circesky.github.io/posts/4a17b156.html</id>
     <published>2022-02-11T07:59:34.966Z</published>
     <updated>2022-02-11T08:46:54.178Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>博客与博主</title>
-    <link href="http://ze520.cn/posts/1.html"/>
-    <id>http://ze520.cn/posts/1.html</id>
+    <link href="https://circesky.github.io/posts/1.html"/>
+    <id>https://circesky.github.io/posts/1.html</id>
     <published>2021-05-27T13:00:00.000Z</published>
     <updated>2021-09-07T14:52:39.538Z</updated>
     
@@ -54,10 +54,10 @@
     
     
     
-    <category term="生活" scheme="http://ze520.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://circesky.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="想法" scheme="http://ze520.cn/tags/%E6%83%B3%E6%B3%95/"/>
+    <category term="想法" scheme="https://circesky.github.io/tags/%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
